@@ -1,0 +1,26 @@
+{
+  "name": "projet_happybirthday_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon -L app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecilelecerf/projet_happyBirthday_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cecilelecerf/projet_happyBirthday_api/issues"
+  },
+  "homepage": "https://github.com/cecilelecerf/projet_happyBirthday_api#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.5",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.20"
+  }
+}
